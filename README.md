@@ -15,9 +15,22 @@ This repository showcases selected data science projects, some of which are host
 - Developed ML models to classify Alzheimer's disease from medical data.
 - Created interactive dashboards using Power BI to communicate findings.
 
-### 3. [Hospital Data EDA](https://medium.com/@helennellieadigwe/exploratory-data-analysis-eda-report-on-hospital-data-c9ab2d4a6eb8)
-- Conducted an exploratory analysis of hospital performance data.
-- Identified inefficiencies and proposed recommendations using Python and visualization libraries.
+### 3. 🏥 Hospital ER Data Analysis (R Project)
+**Folder:** [`hospital-er-analysis`](./hospital-er-analysis)
+
+This project analyzes emergency room data to explore patient wait times, satisfaction scores, referral patterns, and demographic trends. Conducted entirely in R and exported as a PDF report.
+
+**Project Highlights:**
+- Script: [`The_Script.pdf`](./hospital-er-analysis/The_Script.pdf)
+- Dataset: [`Hospital_ER_Data_2.csv`](./hospital-er-analysis/Hospital_ER_Data_2.csv)
+- Visuals:
+  - Age Distribution
+  - K-Means Clustering on Wait Times
+  - Wait Times by Race, Age, Referral Department
+  - Correlation Matrix + Heatmaps
+  - Satisfaction Score Distribution
+
+**Tools Used:** R, ggplot2, tidyverse, base R
 
 ### 4. [Used Car Importation Strategy for Nigeria](https://medium.com/@helennellieadigwe/key-insights-and-strategies-for-importing-used-cars-to-nigeria-3cde637906e5)
 - Analyzed market data to assess vehicle import trends.
@@ -29,7 +42,7 @@ This repository showcases selected data science projects, some of which are host
 
 ## 🔧 Tools & Technologies Used
 - **Languages**: Python, R, SQL, Markdown
-- **Libraries**: pandas, seaborn, matplotlib, scikit-learn
+- **Libraries**: pandas, seaborn, matplotlib, scikit-learn, ggplot2, tidyverse
 - **Visualization**: Power BI, Tableau, Excel
 - **Platforms**: Medium, GitHub, LinkedIn
 
@@ -38,5 +51,5 @@ This repository showcases selected data science projects, some of which are host
 - Medium Blog: [medium.com/@helennellieadigwe](https://medium.com/@helennellieadigwe)
 - Email: hnadigwe@yahoo.com
 
----
 *This repository demonstrates my journey and contributions in applied data science and analytics for impactful decision-making.*
+
