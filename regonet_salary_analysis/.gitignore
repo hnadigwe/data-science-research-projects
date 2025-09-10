@@ -1,0 +1,18 @@
+# Python cache and virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+*.ipynb
+
+# Data and output folders
+data/
+share_outputs/
+Modeling_Results/
+outputs/
+
+# System files
+.DS_Store
+Thumbs.db
